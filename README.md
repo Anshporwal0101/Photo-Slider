@@ -1,2 +1,3 @@
 # Photo-slider
-My gallary
+My gallary,with animation.
+Using Html and CSS.
